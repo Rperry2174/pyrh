@@ -4,7 +4,7 @@
 
 -------------------------------------------------------------
 
-pyrh - Unofficial Robinhood API
+pyrh - Unofficial Robinhood APIaaaaa
 ###############################
 
 .. image:: https://github.com/robinhood-unofficial/pyrh/workflows/build/badge.svg?branch=master&event=push
